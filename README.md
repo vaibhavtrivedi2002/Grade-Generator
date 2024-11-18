@@ -1,2 +1,3 @@
-![Screenshot 2024-04-25 103125](https://github.com/vaibhavtrivedi2002/Grade-Generator/assets/123184825/ec0659ef-47f2-4077-b01c-9a03b8204508)
-![Screenshot 2024-04-25 103142](https://github.com/vaibhavtrivedi2002/Grade-Generator/assets/123184825/82179515-604b-48a0-ad06-18c01add9f3e)
+![Screenshot 2024-11-18 134912](https://github.com/user-attachments/assets/17043db4-5a58-4bc3-8151-4ad099d7470f)
+![Screenshot 2024-11-18 134929](https://github.com/user-attachments/assets/17687418-42a7-4f72-be55-b86931cfccb5)
+
